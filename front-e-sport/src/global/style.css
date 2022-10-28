@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.testt {
+  margin-bottom: 300px !important;
+}
